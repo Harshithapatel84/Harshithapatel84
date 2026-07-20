@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Harshitha S        <br><br>Java Developer<br><br>About Me:<br>⭐Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>Currently learning:  Servlets  and Spring Framework <br>Intersted in:Full-Stack Development, Backend Engineering<br> 
+👋 Hi, I'm Harshitha S        <br><p align="center">
+  <b>Java Developer</b>
+</p>
+<br>About Me:<br>⭐Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>Currently learning:  Servlets  and Spring Framework <br>Intersted in:Full-Stack Development, Backend Engineering<br> 
 
 
 ## 🌐 Socials:
