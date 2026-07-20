@@ -15,6 +15,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshithapatel84&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithapatel84&layout=compact&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshithapatel84&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
 ## 🏆 GitHub Trophies
 
 
