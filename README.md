@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshithapatel84&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
-## 🏆 GitHub Trophies
 
 
 
