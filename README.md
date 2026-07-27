@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Harshitha S        <br><p align="center">
+
+<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>       <br><p align="center">
   <b>Java Developer</b>
 </p>
 <br>About Me:<br>⭐Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>Currently learning:  Servlets  and Spring Framework <br>Intersted in:Full-Stack Development, Backend Engineering<br> 
