@@ -1,6 +1,8 @@
 
-<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>     
+<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>  
+</p>
   <br>
+  <p align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspirining+Java+Full+Stack+Developer%7C+AI+Enthusiast%7CContinuous+Learning%7CProblem+Solver%7CAlways+Learning%2CBuilding+%26+Improving." alt="Typing SVG" /></a>
 </p>
