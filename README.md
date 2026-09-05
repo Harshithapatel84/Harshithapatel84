@@ -1,6 +1,8 @@
 
-<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>       <br><p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspirining+Java+Full+Stack+Developer%7C+AI+Enthusiast%7CContinuous+Learning%7CProblem+Solver%7CAlways+Learning%2CBuilding+%26+Improving.)](https://git.io/typing-svg)
+<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>     
+  <br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspirining+Java+Full+Stack+Developer%7C+AI+Enthusiast%7CContinuous+Learning%7CProblem+Solver%7CAlways+Learning%2CBuilding+%26+Improving." alt="Typing SVG" /></a>
 </p>
 <br>About Me:<br>⭐Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>Currently learning:  Servlets  and Spring Framework <br>Intersted in:Full-Stack Development, Backend Engineering<br> 
 
