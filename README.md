@@ -1,21 +1,80 @@
+<h2 align="center">👋 Hi, I'm Harshitha S</h2>
 
-<p align ="center"><h2>👋 Hi, I'm Harshitha S </h2>  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Java+Full+Stack+Developer;AI+Enthusiast;Continuous+Learner;Problem+Solver;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
+  </a>
 </p>
-  <br>
-  <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspirining+Java+Full+Stack+Developer%7C+AI+Enthusiast%7CContinuous+Learning%7CProblem+Solver%7CAlways+Learning%2CBuilding+%26+Improving." alt="Typing SVG" /></a>
-</p>
-<br>About Me:<br>⭐Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>Currently learning:  Servlets  and Spring Framework <br>Intersted in:Full-Stack Development, Backend Engineering<br> 
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshitha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithashanthraju@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Harshithapatel84)
+## 👩‍💻 About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+⭐ Java Full Stack Development enthusiast dedicated to continuous learning, problem-solving, building scalable applications, and embracing continuous growth.<br>
+📚 Currently learning: **Servlets and Spring Framework**<br>
+💡 Interested in: **Full-Stack Development and Backend Engineering**<br>
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/Harshitha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:harshithashanthraju@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/Harshithapatel84)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/harshitha._18)
+
+# 💻 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" height="50"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate" height="50"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,azure" height="50"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="50"/>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
@@ -25,9 +84,13 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Harshithapatel84&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshithapatel84&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
+## 💫 Quote
 
-
-
+> "Code. Learn. Build. Repeat." 💻🚀
