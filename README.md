@@ -91,13 +91,8 @@ Tech Stack
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harshithapatel84&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harshithapatel84" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshithapatel84&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
 ## 💫 Quote
 
 > "Code. Learn. Build. Repeat." 💻🚀
