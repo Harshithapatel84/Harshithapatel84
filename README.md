@@ -91,7 +91,7 @@ Tech Stack
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-streaks.fiedler.sh/?user=Harshithapatel84" alt="GitHub Streak" />
+  <img src="https://github-streaks.fiedler.sh/?user=Harshithapatel84&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 💫 Quote
