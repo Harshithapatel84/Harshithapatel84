@@ -76,15 +76,22 @@
 </tr>
 </table>
 
+## 🚦 AI-Based Traffic Signal Automation
+
+Tech Stack
+
+- Python
+- YOLO
+- OpenCV
+- Computer Vision
+- Machine Learning
+
+✔ Developed an AI-based traffic signal automation system that detects vehicle density, provides traffic alerts, and prioritizes emergency vehicles by dynamically adjusting traffic signal timing.
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshithapatel84&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithapatel84&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harshithapatel84&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Harshithapatel84&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
